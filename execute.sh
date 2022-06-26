@@ -1,0 +1,1 @@
+java -jar ./target/webcrawler-1.0-SNAPSHOT.jar
